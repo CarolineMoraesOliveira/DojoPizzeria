@@ -1,2 +1,2 @@
 # DojoPizzeria
-# Starting to learn about JS objects.
+# Starting to learn about JS objects
